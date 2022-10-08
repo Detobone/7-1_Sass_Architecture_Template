@@ -1,0 +1,1 @@
+Here it goes all the components that came from a third party, like libraries (icons, bootstrap, etc)
